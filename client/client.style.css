@@ -292,3 +292,28 @@ select {
 p.StartupContainer___StyledP-sc-163imy2-3.ekbHAG {
    background-color: var(--two) !important;
 }
+
+/* Console background and colors */
+div.style-module_1n_DiqmT,
+.xterm .xterm-viewport,
+.xterm .xterm-screen {
+  background-color: var(--one) !important; /* #1A1A1A */
+}
+
+/* Console text color */
+.xterm {
+  color: #e1e7ec !important;
+}
+
+/* Command input field */
+div.style-module_3TDo--Tn {
+  background-color: var(--two) !important; /* #333333 */
+  border-bottom: 2px solid var(--three) !important;
+  color: #e1e7ec !important;
+}
+
+/* Console container rounded corners to match your glassmorphism style */
+div.style-module_1n_DiqmT {
+  border-radius: 8px !important;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1) !important;
+}
