@@ -9,7 +9,7 @@ info:
   version: "1.5"
   target: "beta-2024-12"
   author: "vedant"
-  icon: "logo.jpg"
+  icon: "admin/logo.jpg"
   website: ""
 
 admin:
